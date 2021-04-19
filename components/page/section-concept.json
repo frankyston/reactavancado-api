@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_concepts",
+  "info": {
+    "name": "sectionConcept",
+    "icon": "list-alt"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "cencepts": {
+      "type": "component",
+      "repeatable": true,
+      "component": "page.cencepts"
+    }
+  }
+}

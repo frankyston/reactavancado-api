@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_page_cencepts",
+  "info": {
+    "name": "cencepts",
+    "icon": "th-list"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
